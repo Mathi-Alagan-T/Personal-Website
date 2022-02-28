@@ -1,0 +1,102 @@
+html{
+    border: medium groove #FCF6F5FF;
+    border-right: hotpink;
+}
+body{
+    width: 96%;
+    background-color: #990011FF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+#wrapper{
+    max-width: 95%;
+    min-width: 450px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+h1{
+    color: #4B878BFF;
+    font-weight: bold;
+    font-size: 3em;
+    text-transform: capitalize;
+    text-align: center;
+}
+#AS{
+    text-shadow: 3px 3px 5px black;
+}
+.para{
+    color: #FCF6F5FF;
+    font-size: 16px;
+    line-height: 1.5;
+}
+p{
+    color: #FCF6F5FF;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 1.75em;
+    color: #4B878BFF;
+    text-transform: capitalize;
+    text-indent: 10px;
+    text-shadow: 2px 2px 5px black
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+    color: #4B878BFF;
+    text-transform: capitalize;
+    text-indent: 40px;
+}
+#topmost{
+    color:#4B878BFF;
+    text-shadow: 1px 1px 3px black;
+}
+#apps{
+    color: rgb(115, 189, 194);
+}
+a:link{
+    color: darkorange;
+}
+a:hover{
+    color: blue;
+}
+
+#apps:hover{
+    color:tan;
+}
+a{
+    text-decoration: none;
+}
+#ads{
+    text-decoration: underline;
+    color: #FCF6F5FF;
+}
+
+.header{
+    word-spacing: 19px;
+}
+cite{
+    font-size: 1.3rem;
+    vertical-align: bottom;
+}
+.subs{
+    text-indent: 50px;
+}
+#rgt{
+    text-align: right;
+}
+#btt:hover{
+    color:chartreuse;
+}
+#hovers:hover{
+    color:darkgray;
+    background: black;
+}
+q,blockquote{
+    color:snow;
+}
+#om{
+    color:aqua;
+}
